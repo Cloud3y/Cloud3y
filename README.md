@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@Cloud3y**
 # 👀 I’m interested in Github  und so Zeugs
-## 🌱 I’m currently learning GitHub LPIC und Gedöns...##
+## 🌱 I’m currently learning GitHub LPIC und Gedöns...
 *- 💞️ I’m looking to collaborate on ah geh mir fort...*
 ### 📫 How to reach me erstmal nicht ###
 - 😄 Pronouns: ...
